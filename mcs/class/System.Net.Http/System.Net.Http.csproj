@@ -323,7 +323,6 @@
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamContent.cs" />
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamToStreamCopy.cs" />
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StringContent.cs" />
-        <Compile Include="..\corlib\System.Diagnostics\Debug.cs" />
         <Compile Include="HttpClientHandler.wasm.cs" />
         <Compile Include="HttpRequestMessage.Mono.cs" />
         <Compile Include="IMonoHttpClientHandler.cs" />
@@ -629,7 +628,6 @@
             <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamContent.cs" />
             <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamToStreamCopy.cs" />
             <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StringContent.cs" />
-            <Compile Include="..\corlib\System.Diagnostics\Debug.cs" />
             <Compile Include="HttpClient.DefaultHandler.cs" />
             <Compile Include="HttpClientHandler.SocketsHandler.cs" />
             <Compile Include="HttpClientHandler.cs" />
@@ -745,7 +743,6 @@
             <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamContent.cs" />
             <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamToStreamCopy.cs" />
             <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StringContent.cs" />
-            <Compile Include="..\corlib\System.Diagnostics\Debug.cs" />
             <Compile Include="HttpClient.DefaultHandler.cs" />
             <Compile Include="HttpClientHandler.SocketsHandler.cs" />
             <Compile Include="HttpClientHandler.cs" />
@@ -861,7 +858,6 @@
             <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamContent.cs" />
             <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamToStreamCopy.cs" />
             <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StringContent.cs" />
-            <Compile Include="..\corlib\System.Diagnostics\Debug.cs" />
             <Compile Include="HttpClient.DefaultHandler.cs" />
             <Compile Include="HttpClientHandler.SocketsHandler.cs" />
             <Compile Include="HttpClientHandler.cs" />
@@ -1039,7 +1035,6 @@
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamContent.cs" />
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamToStreamCopy.cs" />
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StringContent.cs" />
-        <Compile Include="..\corlib\System.Diagnostics\Debug.cs" />
         <Compile Include="HttpClientHandler.SocketsHandler.cs" />
         <Compile Include="HttpClientHandler.cs" />
         <Compile Include="HttpRequestMessage.Mono.cs" />
@@ -1155,7 +1150,6 @@
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamContent.cs" />
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamToStreamCopy.cs" />
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StringContent.cs" />
-        <Compile Include="..\corlib\System.Diagnostics\Debug.cs" />
         <Compile Include="HttpClientHandler.SocketsHandler.cs" />
         <Compile Include="HttpClientHandler.cs" />
         <Compile Include="HttpRequestMessage.Mono.cs" />
@@ -1271,7 +1265,6 @@
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamContent.cs" />
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StreamToStreamCopy.cs" />
         <Compile Include="..\..\..\external\corefx\src\System.Net.Http\src\System\Net\Http\StringContent.cs" />
-        <Compile Include="..\corlib\System.Diagnostics\Debug.cs" />
         <Compile Include="HttpClientHandler.SocketsHandler.cs" />
         <Compile Include="HttpClientHandler.cs" />
         <Compile Include="HttpRequestMessage.Mono.cs" />
